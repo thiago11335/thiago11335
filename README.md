@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @thiago11335
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-thiago11335/thiago11335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi eu sou @thiago11335
+- 👍 meu email de contato é thiago.moises.bueno@escola.pr.gov.br
+- 👀 Estou interessado interesssado em aprender a programar novas linguas
+- 🌱 atualmente estou aprendendo a programar recentemente a lingua de Javascript e Scratch
