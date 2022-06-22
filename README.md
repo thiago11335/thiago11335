@@ -1,4 +1,4 @@
 - 👋 Oi eu sou @thiago11335
 - 👍 meu email de contato é thiago.moises.bueno@escola.pr.gov.br
-- 👀 Estou interessado interesssado em aprender a programar novas linguas
-- 🌱 atualmente estou aprendendo a programar recentemente a lingua de Javascript e Scratch
+- 👀 tenho interesse de aprender novas linguas de programação
+- 🌱 estou aprendendo atualmente novas linguas de programação como Javascript e Scratch
